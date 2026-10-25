@@ -6,6 +6,7 @@
 
 ---
 > 🇵🇹 Devido ao tamanho do conjunto de dados, os ficheiros não estão incluídos neste repositório. O dataset pode ser descarregado em: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+> 
 > 🇬🇧 Due to the dataset size, the data files are not included in this repository. You can download them from: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
