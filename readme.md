@@ -5,6 +5,10 @@
 > [English] Advanced relational analysis of a real e-commerce marketplace dataset to uncover purchasing patterns, financing habits, logistics impact on customer satisfaction, and review text mining.
 
 ---
+🇵🇹 Devido ao tamanho do conjunto de dados, os ficheiros não estão incluídos neste repositório. O dataset pode ser descarregado em: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+🇬🇧 Due to the dataset size, the data files are not included in this repository. You can download them from: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+---
 
 ## Tools and technologies / Tecnologias Utilizadas
 * **Languages & Data / Linguagens & Dados:** Python (Pandas, NumPy, Scikit-Learn), SQL (SQLite, Databricks).
